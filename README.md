@@ -1,1 +1,2 @@
-# Lab-2
+In Part 1, which focuses on the CNN Classifier, we utilized the MNIST dataset. We established a CNN architecture based on the PyTorch library to classify the dataset. Additionally, a retrained VGG16 model was employed to fine-tune the CNN model on a new dataset.
+In Part 2, we delved into Vision Transformers (ViT) and established a ViT model architecture. Subsequently, we conducted a classification task using the MNIST dataset.
